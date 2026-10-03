@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ProductExceptSelf.java {
+public class ProductExceptSelf{
 
     static int[] productExceptSelf(int[] nums) {
 
